@@ -1,0 +1,24 @@
+
+  -----------------------------------------------
+  |                 PIZZA MENU                  |
+  |                                             |                       
+  |         Lütfen Bir Pizza Tabanı Seçin:      |
+  |          ------------------------           |
+  |          1. Klasik Pizza 119.90 ₺           |
+  |          2. Margherita Pizza 106.90 ₺       |
+  |          3. Kopernik Pizza 149.90 ₺         |
+  |          4. Bol Bol Pizza 99.90 ₺           |
+  |                                             |
+  |                                             |
+  |         Lütfen Bir Sos Tercihi Yapın:       |
+  |           ------------------------          |
+  |            11. Sos İstemiyorum 0.0 ₺        |
+  |            12. Mantar +4.90 ₺               |    
+  |            13. Peynir +12.90 ₺              |
+  |            14. Zeytin +14.90 ₺              |
+  |            15. Soğan +4.90 ₺                |
+  |            16. Mısır +4.90 ₺                |
+  |                                             |
+  |              * Teşekkürler!                 |
+  -----------------------------------------------
+  
